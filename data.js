@@ -5,59 +5,59 @@ const cardData = [
     id: "bear"
   },
   {
-    name: "Circle",
-    image: "circle_fingers.png",
-    id: "circle"
+    name: "Bee",
+    image: "bee_mask.png",
+    id: "bee"
   },
   {
-    name: "Floppy",
-    image: "floppy_arms.png",
-    id: "floppy"
+    name: "Blonde",
+    image: "blonde_girl.png",
+    id: "blonde"
   },
   {
-    name: "Eyes",
-    image: "four_eyes.png",
-    id: "eyes"
+    name: "Mask",
+    image: "boy_with_mask.png",
+    id: "mask"
   },
   {
-    name: "Horns",
-    image: "horns.png",
-    id: "horn"
+    name: "Crown",
+    image: "crown_hair.png",
+    id: "crown"
   },
   {
-    name: "Leaf",
-    image: "leaf_hair.png",
-    id: "leaf"
+    name: "Hair",
+    image: "crown_hair.png",
+    id: "hair"
   },
   {
-    name: "One",
-    image: "one_eye.png",
-    id: "one"
+    name: "Girl",
+    image: "girl_with_mask.png",
+    id: "girl"
   },
   {
-    name: "",
-    image: "meowth.png",
-    id: "meowth"
+    name: "Red",
+    image: "mask_red.png",
+    id: "red"
   },
   {
-    name: "Snorlax",
-    image: "snorlax.png",
-    id: "snorlax"
+    name: "Mohawk",
+    image: "mohawk_mask.png",
+    id: "mohawk"
   },
   {
-    name: "Wigglypuff",
-    image: "wigglypuff.png",
-    id: "wigglypuff"
+    name: "Spider",
+    image: "spider_man.png",
+    id: "spider"
   },
   {
-    name: "Squirtle",
-    image: "squirtle.png",
-    id: "squirtle"
+    name: "Wing",
+    image: "wing_ears.png",
+    id: "wing"
   },
   {
-    name: "Egg",
-    image: "egg.png",
-    id: "egg"
+    name: "Yellow",
+    image: "yellow_mask.png",
+    id: "yellow"
   }
 ];
 
