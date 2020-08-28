@@ -1,62 +1,62 @@
 const cardData = [
   {
     name: "Bear",
-    image: "img/heroes/bear_mask.png",
+    image: "bear_mask.png",
     id: "bear"
   },
   {
     name: "Bee",
-    image: "img/heroes/bee_mask.png",
+    image: "bee_mask.png",
     id: "bee"
   },
   {
     name: "Blonde",
-    image: "img/heroes/blonde_girl.png",
+    image: "blonde_girl.png",
     id: "blonde"
   },
   {
     name: "Mask",
-    image: "img/heroes/boy_with_mask.png",
+    image: "boy_with_mask.png",
     id: "mask"
   },
   {
     name: "Crown",
-    image: "img/heroes/crown_hair.png",
+    image: "crown_hair.png",
     id: "crown"
   },
   {
     name: "Hair",
-    image: "img/heroes/crown_hair.png",
+    image: "crown_hair.png",
     id: "hair"
   },
   {
     name: "Girl",
-    image: "img/heroes/girl_with_mask.png",
+    image: "girl_with_mask.png",
     id: "girl"
   },
   {
     name: "Red",
-    image: "img/heroes/mask_red.png",
+    image: "mask_red.png",
     id: "red"
   },
   {
     name: "Mohawk",
-    image: "img/heroes/mohawk_mask.png",
+    image: "mohawk_mask.png",
     id: "mohawk"
   },
   {
     name: "Spider",
-    image: "img/heroes/spider_man.png",
+    image: "spider_man.png",
     id: "spider"
   },
   {
     name: "Wing",
-    image: "img/heroes/wing_ears.png",
+    image: "wing_ears.png",
     id: "wing"
   },
   {
     name: "Yellow",
-    image: "img/heroes/yellow_mask.png",
+    image: "yellow_mask.png",
     id: "yellow"
   }
 ];

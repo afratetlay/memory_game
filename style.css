@@ -9,16 +9,8 @@ body {
   background-color: #ff4554;
   color: #3c5aa6;
   font: 18px/24px Helvetica, Arial, Sans-Serif;
+  font-family: 'Bangers', cursive;
 }
-
-@font-face {
-  font-weight: normal;
-  font-style: normal;
-  font-family: 'Pokemon Solid';
-  src: url('fonts/Pokemon Solid.eot');
-  src: local('â˜º'), url('fonts/Pokemon Solid.woff') format('woff'), url('fonts/Pokemon Solid.ttf') format('truetype'), url('fonts/Pokemon Solid.svg') format('svg');
-}
-
 /* header */
 .site-title {
   margin: 60px 0 40px;
