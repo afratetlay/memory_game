@@ -1,41 +1,41 @@
 const cardData = [
   {
-    name: "Pikachu",
-    image: "pikachu.png",
-    id: "pikachu"
+    name: "Bear",
+    image: "bear_mask.png",
+    id: "bear"
   },
   {
-    name: "Bulbasaur",
-    image: "bulbasaur.png",
-    id: "bulbasaur"
+    name: "Circle",
+    image: "circle_fingers.png",
+    id: "circle"
   },
   {
-    name: "Charmander",
-    image: "charmander.png",
-    id: "charmander"
+    name: "Floppy",
+    image: "floppy_arms.png",
+    id: "floppy"
   },
   {
-    name: "Master Ball",
-    image: "masterball.png",
-    id: "masterball"
+    name: "Eyes",
+    image: "four_eyes.png",
+    id: "eyes"
   },
   {
-    name: "Great Ball",
-    image: "greatball.png",
-    id: "greatball"
+    name: "Horns",
+    image: "horns.png",
+    id: "horn"
   },
   {
-    name: "Poke Ball",
-    image: "pokeball.png",
-    id: "pokeball"
+    name: "Leaf",
+    image: "leaf_hair.png",
+    id: "leaf"
   },
   {
-    name: "Premier Ball",
-    image: "premierball.png",
-    id: "premierball"
+    name: "One",
+    image: "one_eye.png",
+    id: "one"
   },
   {
-    name: "Meowth",
+    name: "",
     image: "meowth.png",
     id: "meowth"
   },

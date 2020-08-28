@@ -24,7 +24,7 @@
           <img src="images/${this.image}" class="card-image" >
         </div>
         <div class="card-front">
-          <img src="images/pokeball.png" class="card-image" >
+          <img src="img/batman.png" class="card-image" >
         </div>
       </div>`;
     }
