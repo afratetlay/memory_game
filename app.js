@@ -201,6 +201,15 @@
     }, 750);
   };
 
+  // Add stars to game screen and modal
+  const displayStars = num => {
+    const starImage = '<img src="images/rating-star.png">';
+    $(".stars").empty();
+    for (let i = 0; i < num; i++) {
+      $(".stars").append(starImage);
+    }
+  };
+
   // Open start modal on load
   $(window).on("load", function() {
     $("#startModal").show();
