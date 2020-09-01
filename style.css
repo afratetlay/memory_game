@@ -165,7 +165,7 @@ footer {
 .modal-content {
   position: relative;
   background-color: #fff;
-  border: dotted #ff4554 15px;
+  border: double #ff4554 15px;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   border-radius: 30px;
@@ -220,7 +220,7 @@ animation-duration: 0.4s
 
 button {
   background: #ff4554;
-  border: dotted #3c5aa6 10px;
+  border: double #3c5aa6 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
@@ -368,7 +368,7 @@ button:hover {
   }
 
   .tag-line {
-    font-size: 24px;
+    font-size: 20px;
     margin: 15px;
   }
 
@@ -390,7 +390,7 @@ button:hover {
   }
 
   .tag-line {
-    font-size: 24px;
+    font-size: 20px;
     margin: 15px;
   }
 

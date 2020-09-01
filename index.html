@@ -9,25 +9,6 @@
 </head>
 <body>
 
-<header>
-    <h1 class="heading">Super-Hero Matches</h1>
-    <h2 class="tag-line">&ldquo;Can you save the day!&rdquo;</h2>
-  </header>
-  <section id="game-board" class="board">
-  </section>
-  <footer>
-    <div class="timer">
-      <h3 class="info">Time: <span class="clock data"></span></h3>
-    </div>
-    <div class="rating">
-      <h3 class="info">Star Rating</h3>
-      <div class="stars"></div>
-    </div>
-    <div class="counter">
-      <h3 class="info">Moves: <span id="moves" class="data"></span></h3>
-    </div>
-  </footer>
-
     <!-- Start Modal -->
     <div id="startModal" class="modal">
       <div class="modal-content">
@@ -40,6 +21,22 @@
           <button id="hard-level" class="level-button">Hard</button>
       </div>
       </div>
+    <header>
+    <!--- This is will be at the top of the game once the user has decided which level they would want to play
+    the time would be present and how many moves the user has taken which will give them a score at the end! -->
+    <h1 class="heading">Super-Hero Matches</h1>
+    <h2 class="tag-line">&ldquo;Can you save the day!&rdquo;</h2>
+    </header>
+    <section id="game-board" class="board">
+    </section>
+    <footer>
+    <div class="timer">
+      <h3 class="info">Time: <span class="clock data"></span></h3>
+    </div>
+    <div class="counter">
+      <h3 class="info">Moves: <span id="moves" class="data"></span></h3>
+    </div>
+    </footer>
 
     <!-- Win Message -->
     <div id="winModal" class="modal">
@@ -47,12 +44,12 @@
         <div class="close" id="close-win">&times;</div>
         <h2 class="congrats">You saved the day</h2>
         <div class="modal-data">
-          <h3 class="info">Star Rating</h3>
-          <div class="stars"></div>
-        </div>
-        <div class="modal-data">
           <h3 class="info">Time</h3>
           <div class="clock data"></div>
+        </div>
+        <div class="modal-data">
+          <h3 class="info">Moves:</h3>
+          <div id="moves"></div>
         </div>
         <div class="play-again">
           <p class="win-text">Do you want to play again?</p>
