@@ -73,11 +73,6 @@ const cardData = [
     name: "Red",
     image: "red_mask.png",
     id: "red"
-  },
-  {
-    name: "Spiderman",
-    image: "spider_man.png",
-    id: "spiderman"
   }
 ];
 
