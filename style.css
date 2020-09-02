@@ -204,9 +204,14 @@ animation-duration: 0.4s
 }
 
 .modal-data {
-  float: left;
-  text-align: center;
-  width: 50%;
+    height: 10em;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding-top: 5%;
 }
 
 .play-again {
@@ -227,6 +232,7 @@ animation-duration: 0.4s
 .win-text {
   font: italic 18px/24px Helvetica, Arial, Sans-Serif;
   text-align: center;
+  padding-top: 20%;
 }
 
 button {
