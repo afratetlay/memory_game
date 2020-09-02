@@ -1,18 +1,18 @@
 <h1 align="center">
-  <a href="https://ajgreaves.github.io/picflip/" target="_blank"><img src="images/batman.png" alt="PicFlip! logo" style="width:500px;height:600px;"/></a>
+  <a href="https://afratetlay.github.io/memory_game/" target="_blank"><img src="images/batman.png" alt="PicFlip! logo" style="width:500px;height:600px;"/></a>
 </h1>
 <h2 align="center">
-<a href="https://ajgreaves.github.io/picflip/" target="_blank"><img src="https://i.ibb.co/f8g0CYk/tagline.png" alt="Memory card game for pre-school kids" ></a>
+<a href="https://afratetlay.github.io/memory_game/" target="_blank"><img src="https://i.ibb.co/f8g0CYk/tagline.png" alt="Memory card game for pre-school kids" ></a>
 </h2>
 
 <div align="center"> 
 
-[PicFlip!](https://ajgreaves.github.io/picflip/) is an engaging and entertaining memory card game, designed for children aged between 1 and 5 years old. 
+[PicFlip!](https://afratetlay.github.io/memory_game//) is an engaging and entertaining memory card game, designed for children aged between 1 and 5 years old. 
 Features include easy to operate controls, 3 levels of difficulty, entertaining animations and sounds,
 characters that children enjoy, with an overall feel of child friendly entertainment.
 <br>
 
-[View the PicFlip! page](https://ajgreaves.github.io/picflip/)
+[View the PicFlip! page](https://afratetlay.github.io/memory_game//)
 
 </div>
 

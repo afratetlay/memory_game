@@ -77,12 +77,12 @@ body {
 }
 
 .card-front {
-  border: 10px solid #2a75bb;
+  border: 10px solid #000000;
   background-color: #3c5aa6;
 }
 
 .card-back {
-  border: 10px solid #2a75bb;
+  border: 10px solid #000000;
   background-color: #fff;
   -webkit-transform: rotateY(-180deg);
   transform: rotateY(-180deg);
@@ -126,7 +126,7 @@ footer {
 .info {
   color: #3c5aa6;
   letter-spacing: 5px;
-  font: 32px/1.25 'Pokemon Solid', Helvetica, Arial, Sans-Serif;
+  font-family: 'Bangers', cursive;
 }
 
 .data {
