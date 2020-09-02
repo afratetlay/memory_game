@@ -1,26 +1,11 @@
 <h1 align="center">
   <a href="https://afratetlay.github.io/memory_game/" target="_blank"><img src="images/batman.png" alt="PicFlip! logo" style="width:500px;height:600px;"/></a>
 </h1>
-<h2 align="center">
-<a href="https://afratetlay.github.io/memory_game/" target="_blank"><img src="https://i.ibb.co/f8g0CYk/tagline.png" alt="Memory card game for pre-school kids" ></a>
-</h2>
-
-<div align="center"> 
-
-[PicFlip!](https://afratetlay.github.io/memory_game//) is an engaging and entertaining memory card game, designed for children aged between 1 and 5 years old. 
-Features include easy to operate controls, 3 levels of difficulty, entertaining animations and sounds,
-characters that children enjoy, with an overall feel of child friendly entertainment.
-<br>
-
-[View the PicFlip! page](https://afratetlay.github.io/memory_game//)
-
-</div>
 
 ## Table of Contents
 1. [**UX**](#ux)
     - [**Project Goals**](#project-goals)
     - [**Player goals**](#player-goals)
-    - [**Parental goals**](#parental-goals)
     - [**Developer and Business Goals**](#developer-and-Business-Goals)
     - [**User Stories**](#user-stories)
     - [**Design choices**](#design-choices)
@@ -49,22 +34,19 @@ characters that children enjoy, with an overall feel of child friendly entertain
 
 ### Project Goals
 
-The primary goal of PicFlip! is to provide a clean, intuitive and child friendly game to entertain and delight it's users.
-PicFlip! has two target audiences: Pre-school children and their parents. 
+My nieces and nephew were the motivation for me to create a superhero game, I wanted to make it child friendly so that they and other children can play and at the same time have fun!
 
 #### Player goals
 
-The central target audience for this game is pre-school children aged 1 to 5 years old.
+The target audience for this game is 3 - 6 year old. 
 
 Players goals are:
 - A fun game to play.
-- Child friendly controls.
-- Large buttons and clickable areas for young fingers to operate.
-- All game controls laid out together and in an intuitive way. 
-- Fun images and sounds. 
-- Visual and audio rewards while playing.
+- Different superhero characters
+- 3 levels
+- Easy to use
 
-PicFlip! is a great way to help players meet these needs because:
+Superheros is a interactive game as it helps the children with their memory skills:
 - The planning and design process took all these needs into account before starting to build it. 
 - Controls are grouped together clearly.
 - Game controls are large, utilising icons and colours to communicate their purpose before any words that a child would not be able to read. 
@@ -282,8 +264,8 @@ In the future more functionality can be added to the parental check modal to:
 - This project uses HTML, CSS and JavaScript programming languages.
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
-- [Cloud9](https://c9.io) 
-    - Developer used **Cloud9** for their IDE while building the website.
+- [Gitpod](https://www.gitpod.io/) 
+    - Developer used **Gitpod** to create the game in. 
 - [Bootstrap](https://www.bootstrapcdn.com/)
     - The project uses **Bootstrap** to simplify the structure of the website and make the website responsive easily.
     - The project also uses Bootstrap to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
