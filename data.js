@@ -45,11 +45,6 @@ const cardData = [
     id: "mohawk"
   },
   {
-    name: "Spider",
-    image: "spider_man.png",
-    id: "spider"
-  },
-  {
     name: "Wing",
     image: "wing_ears.png",
     id: "wing"
@@ -73,26 +68,30 @@ const cardData = [
     name: "Red",
     image: "red_mask.png",
     id: "red"
+  },
+  {
+    name: "Green",
+    image: "green_mask.png",
+    id: "green"
+  },
+  {
+    name: "Spider",
+    image: "spider_man.png",
+    id: "spiderman"
   }
 ];
 
 const gameLevels = {
   easy: {
     class: "easy",
-    pairs: 6,
-    twoStar: 6,
-    oneStar: 10
+    pairs: 6
   },
   medium: {
     class: "medium",
-    pairs: 8,
-    twoStar: 10,
-    oneStar: 14
+    pairs: 8
   },
   hard: {
     class: "hard",
-    pairs: 12,
-    twoStar: 16,
-    oneStar: 24
+    pairs: 12
   }
 };
