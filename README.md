@@ -6,7 +6,7 @@
 1. [**UX**](#ux)
     - [**Project Goals**](#project-goals)
     - [**Player goals**](#player-goals)
-    - [**Developer and Business Goals**](#developer-and-Business-Goals)
+    - [**Developer Goals**](#developer-Goals)
     - [**User Stories**](#user-stories)
     - [**Design choices**](#design-choices)
     - [**Wireframes**](#wireframes)
@@ -38,7 +38,7 @@ My nieces and nephew were the motivation for me to create a superhero game, I wa
 
 #### Player goals
 
-The target audience for this game is 3 - 6 year old. 
+The target audience for this game is 3 - 6 years old. 
 
 Players goals are:
 - A fun game to play.
@@ -46,14 +46,11 @@ Players goals are:
 - 3 levels
 - Easy to use
 
-Superheros is a interactive game as it helps the children with their memory skills:
-- The planning and design process took all these needs into account before starting to build it. 
-- Controls are grouped together clearly.
-- Game controls are large, utilising icons and colours to communicate their purpose before any words that a child would not be able to read. 
-- PicFlip! includes audio and visual rewards as part of the game.
-- The overall feel of PicFLip! is fun and child-friendly.
+Superheros is a interactive game as it helps the children with their memory skills, as there are different heros which the children have to match and there are 3 levels which can help increase their memory at a young age whilst they are in the developing stage. 
 
 #### Parental goals
+
+Nowadays parents are reliant on technology to entertain the children as it has become such a big part in our lives, to make sure 
 
 Parents of pre-school children have a large amount of say about what games their children are exposed to, 
 therefore parental needs must also be at the forefront of any project designed for children in this age group. 
@@ -103,13 +100,7 @@ The overall feel of the game is one that is designed for children to enjoy. The 
 
 **Fonts**
 
-- The primary font **Fredoka One** was chosen because it resembles the simple letters used in products made for pre-school children. It's likeness to fridge magnets for children is nostalgic for parents as well. 
-
-- The secondary font **Bubblegum Sans** was chosen for its childlike qualities, while complementing the primary font nicely in style because it is more compact.
-
-**Icons**
-
-- All icons used were chosen for their obvious meaning and purpose so that they can be understood by everyone.
+- The primary font **Bangers, cursive;** was chosen because it was the closest font that resembled a superhero comic book style. 
 
 **Colours**
 
@@ -123,40 +114,26 @@ The overall feel of the game is one that is designed for children to enjoy. The 
 
 **Backgrounds**
 
-- The background image of toy trains was chosen to give the feeling of playing the game in a child's playroom. 
-- Specifically chosen because it is a "flat-lay" - a photograph taken from directly above - this means the background complements the game without distracting from it.
-- The background images for the modals were chosen for their comic-book like qualities, adding a little positive emotional feedback at a level that appeals to a child. 
+- The background image of the pink stripes, again, mimics a superhero comic book. 
 
 **Card images**
 
-- Disney and Pixar characters were chosen for this game because they are recognised and loved by children. 
-Cars characters were specifically chosen because it is extremely popular with boys, 
-the Frozen characters because they are very popular with girls, 
-and the Toy Story Characters because they appeal to both girls and boys. 
-
-**Audio files**
-
-- To continue the feeling of a game made for children, clicking button sounds were added that are similar to the sounds a child might hear when operating a physical toy with buttons. 
-- The card flipping sounds and "bing" on a correct match were added to give positive feedback on use of the game. 
-- The sound of applauding children played on completing the game was chosen because it appeals most to children, and again fits within the theme of PicFlip!
+- I decided to use Batman on the cards, as most of the children are familar with Batman and he is one of the famous ones. 
 
 ### Wireframes
 
-These wireframes were created using [Balsamiq](https://balsamiq.com/) during the Scope Plane part of the design and planning process for this project. 
+These wireframes were created by hand. 
 
-- [User info modal](https://i.ibb.co/FWBy68Q/Create-profile.png)
-- [Game page](https://i.ibb.co/H2XtCW9/Game-page.png)
-- [Win pop-up](https://i.ibb.co/5809P3Q/Win-popup.png)
+
 
 ## Features
  
 ### Existing Features
 
 1. **Player info modal**
-    - On arriving at the page for the first time, this modal pops up to collect the players name and their choice of avatar image from the three available. 
-    - This modal is also activated if stored player data is reset. 
-    - The modal has been programmed to not close unless both the name has been filled out at an avatar has been chosen. Tooltips appear to guide the user to enter both.
-    - The default setting for modals that they can be closed if clicking on the modal background has also been disabled for this modal specifically.  
+- Player can choose between "easy", "medium" and "hard" mode
+- The game features a timer to keep track of how long it takes to win and reports time on win screen
+- When the game ends, a pop-up appears with the elapsed time and a restart button
 
 <div align="center">
 <img src="https://i.ibb.co/NpXs3QC/user-info-modal.jpg" alt="Screenshot: User info modal" >
