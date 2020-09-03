@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://afratetlay.github.io/memory_game/" target="_blank"><img src="images/batman.png" alt="PicFlip! logo" style="width:500px;height:600px;"/></a>
+  <a href="https://afratetlay.github.io/memory_game/" target="_blank"><img src="images/batman.png" alt="Super Hero" style="width:500px;height:600px;"/></a>
 </h1>
 
 ## Table of Contents
