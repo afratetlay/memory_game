@@ -266,26 +266,17 @@ In the future more functionality can be added to the parental check modal to:
     - The project uses **JQuery** to simplify DOM manipulation.
 - [Gitpod](https://www.gitpod.io/) 
     - Developer used **Gitpod** to create the game in. 
-- [Bootstrap](https://www.bootstrapcdn.com/)
-    - The project uses **Bootstrap** to simplify the structure of the website and make the website responsive easily.
-    - The project also uses Bootstrap to provide icons from [FontAwesome](https://www.bootstrapcdn.com/fontawesome/)
 - [Google Fonts](https://fonts.google.com/)
     - The project uses **Google fonts** to style the website fonts.
-- [Imgbb](https://imgbb.com)
-    - All external images for this project are stored on **Imgbb.com**.
-- [Jasmine](https://jasmine.github.io/)
-    - This project used **Jasmine** to automatically test all JavaScript and jQuery code.
-- [Jasmine-jQuery](https://github.com/velesin/jasmine-jquery)
-    - This project used **Jasmine-jQuery** CDN to make it possible to test jQuery code using Jasmine.
+- [ShutterStock](https://www.shutterstock.com/)
+    - All of my images used in the game were from Shutterstock
 - [GitHub](https://github.com/)
     - This project uses **GitHub** to store and share all project code remotely. 
     - The new GitHub Projects planner was utilised to plan and keep track of this project. This project plan can be viewed [here](https://github.com/AJGreaves/picflip/projects/1).
-- [Photoshop](www.adobe.com/Photoshop)
-    - This project used tools in **Photohshop** to edit, crop and save images as well as ulitising the colour picker to ensure color consistency over the entire project.
-- [Browserstack](https://www.browserstack.com/)
-    - The project used **Browserstack** to test functionality on all browsers and devices.
-- [AutoPrefixer](https://autoprefixer.github.io/)
-    - The project used **AutoPrefixer** to make sure all css prefixes were the most up to date versions. 
+- [Illustrator](www.adobe.com/Illustrator)
+    - This project used tools in **Photohshop** to edit, crop and save images into png.
+- [Timer](https://www.w3schools.com/howto/howto_js_countdown.asp)
+    - I used this timer in my project to help time the user on how long it takes the to complete the game.
 
 ## Testing 
 
@@ -293,9 +284,9 @@ Testing information can be found in separate [testing.md](testing.md) file
 
 ## Deployment
 
-This project was developed using the [Cloud9 IDE](https://c9.io), committed to git and pushed to GitHub using the built in function within cloud9. 
+This project was developed using the [Gitpod](https://www.gitpod.io/), committed to git and pushed to GitHub. 
 
-To deploy PicFlip! to GitHub Pages from its [GitHub repository](https://github.com/AJGreaves/picflip), the following steps were taken: 
+To deploy PicFlip! to GitHub Pages from its [GitHub repository](https://github.com/afratetlay/memory_game), the following steps were taken: 
 1. Log into GitHub. 
 2. From the list of repositories on the screen, select **AJGreaves/picflip**.
 3. From the menu items near the top of the page, select **Settings**.
