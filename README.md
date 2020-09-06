@@ -56,17 +56,7 @@ Parents of pre-school children have a large amount of say about what games their
 therefore parental needs must also be at the forefront of any project designed for children in this age group. 
 
 Parent's goals are:
-- A game with child development value. In this case to improve their memory and spatial awareness.
-- Usability for the range of abilities in pre-school kids.
-- A visually appealing, well-functioning game. 
-- The ability for a parent to reset the stored player profile. 
-- A mute button.
-
-PicFlip! is a great way to help parents meet these needs because:
-- PicFlip! gives a child a fun environment in which to practice their memory skills. 
-- Game includes 3 levels of difficulty ranging from 8 to 16 cards.
-- It has been designed with user experience as a priority, not only for a child using it but also for a parent.
-- The game includes a reset data option, which is easy to find and operate by an adult who can read and do simple mathematics.
+- The parents goal for this game is to help their child with their memory, by the different levels there are. The children will be engaged as the memory game is based on superheros. 
 
 #### Developer and Business Goals
 
@@ -251,7 +241,7 @@ In the future more functionality can be added to the parental check modal to:
     - This project uses **GitHub** to store and share all project code remotely. 
     - The new GitHub Projects planner was utilised to plan and keep track of this project. This project plan can be viewed [here](https://github.com/AJGreaves/picflip/projects/1).
 - [Illustrator](www.adobe.com/Illustrator)
-    - This project used tools in **Photohshop** to edit, crop and save images into png.
+    - This project used tools in **Illustrator** to edit, crop and save images into png.
 - [Timer](https://www.w3schools.com/howto/howto_js_countdown.asp)
     - I used this timer in my project to help time the user on how long it takes the to complete the game.
 
@@ -276,22 +266,6 @@ The PicFlip project made use of several branches for development, testing and bu
 The Master Branch has always been the one deployed to GitHUb Pages. When displaying the website life, the developer tries to keep the master branch to optimal code only.
 At the moment of submitting this Milestone project the Development Branch and Master Branch are identical. 
 
-### How to run this project locally
-
-To clone this project from GitHub:
-1. Follow this link to the [PicFlip GitHub repository](https://github.com/AJGreaves/picflip).
-2. Under the repository name, click "Clone or download".
-3. In the Clone with HTTPs section, copy the clone URL for the repository. 
-4. In your local IDE open Git Bash.
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type ```git clone```, and then paste the URL you copied in Step 3.
-```console
-git clone https://github.com/USERNAME/REPOSITORY
-```
-7. Press Enter. Your local clone will be created.
-
-Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
-
 ## Credits
 
 ### Content
@@ -301,12 +275,9 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 ### Media
 
 #### Images
-- The PicFlip logo was created using [Hatchful](https://hatchful.shopify.com).
 - The card images of the young superheroes were from [Shutterstock](https://www.shutterstock.com/).
 
-#### Audio
-- The audio file for button click sound was sourced from [SoundJay](https://www.soundjay.com).
-- The audio files for card flip sound, matched cards sound and children applauding were sourced from [FreeSound](https://freesound.org/).
+
 
 ### Code
 - Code for the card flip animation taken from this [W3Schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) post.
@@ -319,11 +290,12 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 ### Acknowledgements
 
 Special thanks to: 
-- Code Institute Mentor Simen Daehlin for his time and support in explaining and demonstrating areas of code this developer was struggling to understand.
-- Alumni John Longgately and Robin Zigmond for their help in guiding this developer in understanding JavaScript, jQuery and Jasmine testing. 
-- Owen (4) and Declan (9) who tested the game play extensively, and offered advice on what would make it more fun for them to play.
+- Mentor - Adegbenga Adeye, who has supported me through the project. 
+
 
 #### Disclaimer
 The content of this website is for the milstone project 2.
 
-Many thanks! Anna
+Thank you for taking your time to read this and if you haven't please have a go at the game. 
+
+Afra. 
