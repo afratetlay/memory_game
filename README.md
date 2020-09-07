@@ -28,8 +28,6 @@
     - [**Code**](#code)
     - [**Acknowledgements**](#acknowledgements)
 
-7. [**Disclaimer**](#disclaimer)
-
 ## UX
 
 ### Project Goals
@@ -58,31 +56,12 @@ therefore parental needs must also be at the forefront of any project designed f
 Parent's goals are:
 - The parents goal for this game is to help their child with their memory, by the different levels there are. The children will be engaged as the memory game is based on superheros. 
 
-#### Developer and Business Goals
-
-- Well thought out programming that prepares for a child's random and unpredictable use of PicFlip! 
-For example, that the game cannot be broken by clicking many areas quickly, or if it is restarted at an unexpected moment. 
-- A professional looking first dip into the world of using JavaScript, jQuery and Jasmine. 
-- A project the developer is excited to make a part of her portfolio. 
-
 #### User Stories
 
 As a player aged between 1-5 years old, I want:
-1. The ability to easily find and understand the controls for the game, so that I can operate them easily. 
-2. A large easy to press buttons and controls, so that my young fingers can use on all devices.
-3. Audio and/or visual feedback when I play the game, so that I know when I have clicked or not clicked something.
-4. The ability to choose from cards with my favourite children’s characters on, so that I am even more engaged in finding them in the game.
-5. Positive audio feedback when I complete a step in the game (for example when I find a matching pair of cards), because this increases my enjoyment from playing.
-6. Visual icons and images that I recognise, so that I understand when I have achieved something in the game. For example stars out of five, and a trophy for high score.
-7. The ability to see my old scores when I return to the game, so I can try to beat them.
-
-As a parent of a player, I want:
-1. Levels of difficulty for my child to choose from, so that they are engaged for longer and the game is useable for a wider age range.
-2. A visually and operationally appealing game, so that I also have a positive experience when using it with my child.
-3. The ability to delete a stored profile, so that I can reset the game for another go, or for another child. 
-4. The option to delete a profile to be easy for me to find, but not easy for a child who is randomly pressing buttons to access, so that a profile is not deleted by accident.
-5. A mute button to be included, so that the sounds can be switched off when they become annoying. (If only the actual child came with one of those too!).
-6. To know who made the game and how I can contact them. 
+1. The game was created to easily navigate around the game as it is aimed for children. 
+2. The large button are easy for the children to access for their small fingers. 
+4. The ability for the children to play the game and pay attention was important for me, that was the reason why i chose to do superheros as children love them. 
 
 ### Design Choices
 
@@ -94,13 +73,11 @@ The overall feel of the game is one that is designed for children to enjoy. The 
 
 **Colours**
 
-- The primary colour choices of dark and light blue for the logo, titles and text were chosen because they have a clean clear aspect while contrasting each other well.
-- Other colours used in the project were taken from the trophy image sourced, using a colour picker in Photoshop to make sure all colours used were consistent across the entire project.
+- I wanted the colours to reflect on comic books and superhero, the pink strip background reminded me of comic books and the blue card makes it stand out. 
 
 **Styling**
 
-- Cards and container boxes were given rounded corners to continue the child friendly theme, many real life memory cards for children have corners like this. 
-- Repeating the same rounded corner pattern throughout the page keeps consistency in design and maintains the feeling that all elements belong together. 
+- I have made sure the styling of the game is appealing to the eye by the various colours and the style of the cards that I have used. 
 
 **Backgrounds**
 
@@ -114,96 +91,44 @@ The overall feel of the game is one that is designed for children to enjoy. The 
 
 These wireframes were created by hand. 
 
-
-
 ## Features
  
 ### Existing Features
 
 1. **Player info modal**
 - Player can choose between "easy", "medium" and "hard" mode
-- The game features a timer to keep track of how long it takes to win and reports time on win screen
-- When the game ends, a pop-up appears with the elapsed time and a restart button
-
+- Once chosen, the cards will appear and the as soon as the player clicks on the card, the timer will start and tracks the amount of moves you take.
 <div align="center">
-<img src="https://i.ibb.co/NpXs3QC/user-info-modal.jpg" alt="Screenshot: User info modal" >
+<img src="images/wireframes/levels.jpeg" alt="Screenshot" >
 </div>
 
 
 2. **Dashboard**
-    - The game dashboard contains the player info display, difficulty selection, character selection, info, mute and reset buttons. 
-    - On mobile devices a chevron arrow is displayed to tell the player to scroll downwards to the game board. 
+    - The game dashboard contains the time, moves and the cards.
 
 <div align="center">
-<img src="https://i.ibb.co/pwn3GFV/game-board.jpg" alt="Screenshot: Game board"><br>
-<img src="https://i.ibb.co/JFr93rH/mobile-view-dashboard.jpg" alt="Screenshot: dashboard mobile view" >
+<img src="images/wireframes/cards" alt="Screenshot"><br>
 </div>
-
-3. **Player info display**
-    - At the top of the dashboard the players name is displayed with their chosen avatar. 
-    - Underneath this is the display to show their highest score (out of 5 stars) for the currently selected difficulty level. 
-    - The star display changes if a different level is selected. 
 
 4. **Difficulty selection buttons**
     - Players can select from three difficulty levels: Easy (8 cards), Medium (12 cards) and Hard (16 cards).
     - The difficulty buttons are coloured green, yellow and red for users who can't read to tell them apart.
     - Selecting any of these buttons turns any face-up cards back over and reshuffles the cards.
 
-5. **Character selection buttons**
-    - Players can choose from three different Disney movie characters to display on the memory cards.
-    - Selecting any of these buttons turns any face-up cards back over and reshuffles the cards.
-
-6. **Mute button**
-    - The mute button switches off all audio in the game. It is represented by a large speaker icon, which switches to one with a cross next to it when active.
- 
-7. **Reset button**
-    - The reset button, represented by a curved arrow, resets the game, when it is pressed the game turns any face-up cards back over, reshuffles them and resets the turns counter back to 0. 
-    - It does not reset the difficulty level or characters chosen for the cards. 
-
-8. **Info button**
-    - Represented by a large question mark, the info button opens the info modal. 
-    - The info modal offers easy to understand instructions on how to play the game. 
-    - Underneath how to play instructions there is information on how to open the modal to delete the player’s profile. 
-    - The place to click is easy for an adult to see, but not an obvious button to click for a child. 
-
 <div align="center">
-<img src="https://i.ibb.co/xJ7PbS2/info-modal.jpg" alt="Screenshot: Info Modal" >
+<img src="images/wireframes/cards.jpeg" alt="Screenshot" >
 </div><br>
 
-9. **Parental check modal**
-    - This modal appears if the correct icon is clicked in the info modal. 
-    - It explains that deleting the player profile will remove all game data including high scores. 
-    - Then it asks a simple maths question with 9 possible answers to choose from, only if the correct answer is clicked will the player profile be deleted. 
-    - All other choices will close the modal when clicked with no further effects to the game.
-    - At this point the maths question and correct answer are static. This is a feature I would like to update in the future (see [Features Left to Implement](#Features-left-to-implement) for more information)
-
-<div align="center">
-<img src="https://i.ibb.co/nrRkQsq/delete-data-modal.jpg" alt="Screenshot: Parental check modal" >
-</div>
-
-
 10. **Turns counter**
-    - Located above the game cards, the turns counter counts the number of turns the player has taken in the current game. 
-    - This total is then used to give the player a score out of 5 stars when the game is complete.
-
-11. **Game board and cards**
-    - The game board is where the memory cards are displayed. 
-    - The cards are laid out in a grid 4 cards wide on medium to large screens, and 3 cards wide on phones to allow the size to remain easy for young fingers to tap on.
-    - The number of rows of cards visible changes depending on the difficulty level selected. 
-
-<div align="center">
-<img src="https://i.ibb.co/q5sDjB4/mobile-view.jpg" alt="Screenshot: game board mobile view" >
-</div>
+    - I have added a feature whenever the user click on a card, there is a counter which counts it. 
 
 
 12. **Win modals** 
-    - PicFlip! has two possible win modals that pop up when a game is completed. 
-    - Both win modals display the number of stars the player won for the game they just played.
-    - The standard win modal is launched if the player completed the game, but did not beat their previous high score.
-    - The high score win modal is launched for a new high score, along with the number of stars earned the high score win modal also displays a trophy picture.
+    - When the user has completed the game a modal will appear, 
+
 
 <div align="center">
-<img src="https://i.ibb.co/YRjzhw5/high-score-modal.jpg" alt="Screenshot: high score modal" >
+<img src="images/wireframes/success.jpeg" alt="Screenshot" >
 </div>
 
 
