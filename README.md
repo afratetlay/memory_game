@@ -110,7 +110,7 @@ These wireframes were created by hand.
 <img src="images/wireframes/cards" alt="Screenshot"><br>
 </div>
 
-4. **Difficulty selection buttons**
+3. **Difficulty selection buttons**
     - Players can select from three difficulty levels: Easy (8 cards), Medium (12 cards) and Hard (16 cards).
     - The difficulty buttons are coloured green, yellow and red for users who can't read to tell them apart.
     - Selecting any of these buttons turns any face-up cards back over and reshuffles the cards.
@@ -119,39 +119,18 @@ These wireframes were created by hand.
 <img src="images/wireframes/cards.jpeg" alt="Screenshot" >
 </div><br>
 
-10. **Turns counter**
+4. **Turns counter**
     - I have added a feature whenever the user click on a card, there is a counter which counts it. 
 
 
-12. **Win modals** 
-    - When the user has completed the game a modal will appear, 
-
+5. **Win modals** 
+    - When the user has completed the game a modal will appear, with the time it took them to complete and an option to play again. 
 
 <div align="center">
 <img src="images/wireframes/success.jpeg" alt="Screenshot" >
 </div>
 
-
-13. **Footer tab**
-    - A small tab is displayed at the bottom of the website that when clicked pulls up a short footer with developer information on. 
-
-### Features Left to Implement
-
-1. **Improvements to the parental check modal**
-
-In the future more functionality can be added to the parental check modal to: 
-    - Randomize the math question and active number to click to prove you are an adult. 
-    - if the incorrect answer is given the math question/answer is randomised again. 
-    - If the incorrect choice is made 5 times in a row then the modal closes. 
-
-2. **Additional difficulty level**
-    - Add level "insane" for older kids to try. 
-    - This would only be possible on mobiles if converted into a mobile app, as the full screen would be needed to make enough room for all the cards.
-
-3. **Conversion to a mobile App**
-    - If this project were to become commercial the current card pictures would have to be changed to ones commissioned specifically for it, rather than using Disney images.
-
-## Technologies Used
+## Technologies and Code Used
 
 - This project uses HTML, CSS and JavaScript programming languages.
 - [JQuery](https://jquery.com)
@@ -178,18 +157,14 @@ Testing information can be found in separate [testing.md](testing.md) file
 
 This project was developed using the [Gitpod](https://www.gitpod.io/), committed to git and pushed to GitHub. 
 
-To deploy PicFlip! to GitHub Pages from its [GitHub repository](https://github.com/afratetlay/memory_game), the following steps were taken: 
+To deploy SuperHeros! to GitHub Pages from its [GitHub repository](https://github.com/afratetlay/memory_game), the following steps were taken: 
 1. Log into GitHub. 
-2. From the list of repositories on the screen, select **AJGreaves/picflip**.
+2. From the list of repositories on the screen, select **afratetlay/memory_game**.
 3. From the menu items near the top of the page, select **Settings**.
 4. Scroll down to the **GitHub Pages** section.
 5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**
 6. On selecting Master Branch the page is automatically refreshed, PicFlip! is now deployed. 
 7. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
-
-The PicFlip project made use of several branches for development, testing and bug fixing. 
-The Master Branch has always been the one deployed to GitHUb Pages. When displaying the website life, the developer tries to keep the master branch to optimal code only.
-At the moment of submitting this Milestone project the Development Branch and Master Branch are identical. 
 
 ## Credits
 
@@ -201,16 +176,6 @@ At the moment of submitting this Milestone project the Development Branch and Ma
 
 #### Images
 - The card images of the young superheroes were from [Shutterstock](https://www.shutterstock.com/).
-
-
-
-### Code
-- Code for the card flip animation taken from this [W3Schools](https://www.w3schools.com/howto/howto_css_flip_card.asp) post.
-- Box shadow codes were generated at [CSS matic | box-shadow](https://cssmatic.com/box-shadow).
-- Code for filtering through an array for specific values sourced from this [StackOverflow](https://stackoverflow.com/questions/6120931/how-to-count-the-number-of-certain-element-in-an-array) post.
-- Code for making images into radio buttons sourced from this [StackOverflow](https://stackoverflow.com/questions/17541614/use-images-instead-of-radio-buttons) post.
-- Code for adding the correct prefixes to css was created using [AutoPrefixer](https://autoprefixer.github.io/).
-- Function to toggle text in the pull up tab from push to pull taken from this [StackOverflow](https://stackoverflow.com/questions/2155453/jquery-toggle-text) post.
 
 ### Acknowledgements
 
